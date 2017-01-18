@@ -7,11 +7,10 @@
 @import 'config/base';
 
 // Layout
-@import 'layout/grid';
-@import 'layout/base';
-@import 'layout/section';
-@import 'layout/footer';
+@import 'layout/module';
 
 // Components
+@import 'components/module';
 
 // Pages
+@import 'pages/module';

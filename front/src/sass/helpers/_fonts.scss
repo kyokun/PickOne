@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Urania Czech';
+  src: url('assets/fonts/urania_czech-webfont.woff2') format('woff2'),
+       url('assets/fonts/urania_czech-webfont.ttf') format('truetype'),
+       url('assets/fonts/urania_czech-webfont.woff') format('woff');
+}
+
+$base-font-family: 'Quicksand', sans-serif;
+$font-stack-system: $base-font-family;

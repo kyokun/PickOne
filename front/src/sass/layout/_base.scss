@@ -1,0 +1,9 @@
+body {
+  background: repeating-linear-gradient(
+    to right,
+    $box-top-color,
+    $box-top-color 1px,
+    $box-bg-color 10px,
+    $box-bg-color 15px
+  )
+}

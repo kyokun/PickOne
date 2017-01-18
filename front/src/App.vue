@@ -1,7 +1,9 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <!--<img src="./assets/logo.png">-->
+    Font test
     <hello></hello>
+    <button>Login with facebook</button>
   </div>
 </template>
 
